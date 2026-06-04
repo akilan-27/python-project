@@ -136,11 +136,11 @@ No external packages are required.
 
 ### Run
 
-``bash
+```bash
 
 python Funbot.py
 
---bash
+```
 
 📂 Project Structure
 
