@@ -128,7 +128,19 @@ FunBot can respond to:
 
 No external packages are required.
 
+## Run the Project
 
+### Requirements
+
+- Python 3.6 or higher
+
+### Run
+
+``bash
+
+python Funbot.py
+
+--bash
 
 📂 Project Structure
 
